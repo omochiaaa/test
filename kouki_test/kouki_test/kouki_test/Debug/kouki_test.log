@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\omochi\Desktop\a\kouki_test\kouki_test\kouki_test\main.cpp(167,75): warning C4834: 'nodiscard' 属性を持つ関数の戻り値を破棄しています
-  kouki_test.vcxproj -> C:\Users\omochi\Desktop\a\kouki_test\kouki_test\Debug\kouki_test.exe
